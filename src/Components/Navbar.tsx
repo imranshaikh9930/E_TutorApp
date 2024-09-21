@@ -1,4 +1,4 @@
-import React,{useState} from 'react';
+import {useState} from 'react';
 import { MdComputer, MdMenu } from "react-icons/md";
 import {NavbarMenu} from "../data";
 import ResponsiveMenu from "./RespnsiveMenu.tsx";

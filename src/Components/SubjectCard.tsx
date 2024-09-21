@@ -1,4 +1,4 @@
-import React from 'react'
+// import React from 'react'
 import { FaComputer, FaBook } from "react-icons/fa6";
 import { motion } from 'framer-motion';
 const SubjectCard = () => {

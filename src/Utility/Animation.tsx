@@ -1,6 +1,6 @@
 
 
-export const SlideUp = (delay)=>{
+export const SlideUp = (delay:number)=>{
     return {
         hidden:{
             opacity:0,

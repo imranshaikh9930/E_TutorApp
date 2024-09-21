@@ -1,4 +1,4 @@
-import React from 'react';
+// import React from 'react';
 import { motion } from 'framer-motion';
 import banner1 from "../assets/hero.png";
 import { SlideRight } from '../Utility/Animation';

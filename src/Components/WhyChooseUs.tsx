@@ -1,4 +1,4 @@
-import React from 'react'
+// import React from 'react'
 import { GrYoga } from "react-icons/gr";
 import { FaDumbbell } from "react-icons/fa6";
 import { GiGymBag } from "react-icons/gi";

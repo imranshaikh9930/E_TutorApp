@@ -1,5 +1,4 @@
-import React from 'react'
-import banner1 from "../assets/banner1.png";
+// import banner1 from "../assets/banner1.png";
 import { SlideUp } from '../Utility/Animation';
 import { motion } from 'framer-motion';
 
@@ -8,7 +7,8 @@ interface Schedule1Props {
     tag: string;
     title: string;
     subtitle: string;
-    link: string;
+    link?: string;
+    reverse?:boolean
   }
 
 
