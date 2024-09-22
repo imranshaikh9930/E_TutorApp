@@ -1,10 +1,10 @@
 // import React from 'react';
 
-interface isOpenProps {
-  isOpen:boolean
-}
+// interface isOpenProps {
+//   isOpen:boolean
+// }
 
-const RespnsiveMenu:FC<isOpenProps> = ({isOpen}) => {
+const RespnsiveMenu:FC = ({isOpen:boolean}) => {
   return (
     <>
     {

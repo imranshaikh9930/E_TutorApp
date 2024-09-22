@@ -20,7 +20,7 @@ export const SlideUp = (delay:number)=>{
 }
 
 
-export const SlideLeft = (delay)=>{
+export const SlideLeft = (delay:number)=>{
     return {
 
         hidden:{
@@ -39,7 +39,7 @@ export const SlideLeft = (delay)=>{
 }
 
 
-export const SlideRight = (delay)=>{
+export const SlideRight = (delay:number)=>{
     return {
         hidden:{
             opacity:0,
